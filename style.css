@@ -28,7 +28,7 @@ body{
     align-items: center;
     text-align: center;
     padding: 15px;
-    max-width: 400px;
+    max-width: 450px;
     border-radius: 15px;
     box-shadow: 0px 0px 10px hsl(220, 15%, 55%);
 }
@@ -55,16 +55,14 @@ body{
 footer{
     align-items: center;
     text-align: center;
-    background-color: #fff;
     padding-top: 10px;
 }
 
 footer a{
-    text-decoration: none;
     color: black;
-    background-color: hsla(217, 87%, 70%, 0.2);
     padding: 2px 8px;
     border-radius: 4px;
+    font-size: large;
 }
 
 p {
